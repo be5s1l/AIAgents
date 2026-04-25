@@ -1,0 +1,15 @@
+# Core AI/LLM Libraries
+langchain-ollama==0.2.1
+langchain-core==0.3.28
+langchain-community==0.3.12
+ollama==0.3.10
+
+# Speech Recognition and Text-to-Speech
+speech_recognition==3.10.1
+pyttsx3==2.90
+
+# Additional Dependencies (auto-installed with above)
+# httpx - HTTP client
+# pydantic - Data validation
+# PyAudio - Audio processing (optional, for advanced audio control)
+pyaudio==0.2.14
